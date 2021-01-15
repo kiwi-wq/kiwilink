@@ -1,5 +1,5 @@
 [
   {
-    "لینک هدایت کننده": "https://s16.picofile.com/d/8421429392/aa2b579e-be93-404f-89e1-13e61bcb4d44/Kiwi1_1.apk"
+    "لینک هدایت کننده": "https://s17.picofile.com/d/8421430976/658af86d-50cb-4356-9512-c4be6d3d5275/Kiwi2.apk"
   }
 ]
