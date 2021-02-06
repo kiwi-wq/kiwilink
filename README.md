@@ -1,5 +1,5 @@
 [
   {
-    "لینک هدایت کننده": "https://uupload.ir/filelink/0YoRlnKQisRb/dh1_kiwi1.13.apk"
+    "لینک هدایت کننده": "https://uupload.ir/filelink/zdD1t1nMdzby/6gyz_kiwi1.13.apk"
   }
 ]
